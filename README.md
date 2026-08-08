@@ -5,3 +5,4 @@ This is the repo where I will learn git from scratch.
 Follow along on my journey.
 
 ##Running
+Upload to remote.
